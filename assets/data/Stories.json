@@ -1,0 +1,93 @@
+[
+    {
+    "id": "0",
+    "image": "https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.15752-9/327546342_881692776505915_747931308590998146_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=y8jeMA1hUqIAX_sQuEM&_nc_ht=scontent.fmnl17-2.fna&oh=03_AdT1oz0_aiALP46mITH3ZgsqX3C2wOLW4xLtG6M4L_B4Sg&oe=63FB8811",
+    "name": "Bryan",
+    "username": "Bryan Yj",
+    "createdAt": "2020-09-04T12:05:39.955Z",
+    "fleets": {
+      "items": [
+        {
+          "id": "0",
+          "type": "IMAGE",
+          "createdAt": "2022-11-04T12:05:39.955Z",
+          "image": "https://images.pexels.com/photos/1735675/pexels-photo-1735675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "id": "1",
+          "type": "TEXT",
+          "text": "“Look deep into nature, and then you will understand everything better.” — Albert Einstein"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1",
+    "image": "https://images.chesscomfiles.com/uploads/v1/user/212791427.4bf706b5.200x200o.dfcaa68f435d.png?fbclid=IwAR2dJUT4UYVbiUWALQ5bZ7c2uZTCWIzE5jKIZragrufLdMH3vjOStxnAMEg",
+    "name": "Nirvy2301",
+    "username": "Nirvy2301",
+    "createdAt": "2020-09-04T12:05:39.955Z",
+    "fleets": {
+      "items": [
+        {
+          "id": "0",
+          "type": "IMAGE",
+          "image": "https://images.pexels.com/photos/8566432/pexels-photo-8566432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMJgLJK9R8154dSdB7w24uGQqDJNigcZGglq6ghzc81X4DS2RWqEclHMh13yBO0iM2-U&usqp=CAU",
+    "name": "Lucas",
+    "username": "Lucas",
+    "createdAt": "2022-09-04T12:05:39.955Z",
+    "fleets": {
+      "items": [
+        {
+          "id": "0",
+          "type": "TEXT",
+          "text": "I am from Kaliningrad"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbY3v1BLGcs377egpKrACqT0K_-6o_ldiWA&usqp=CAU",
+    "name": "Olivia Mile",
+    "username": "Olivia",
+    "createdAt": "2022-09-04T12:05:39.955Z",
+    "fleets": {
+      "items": [
+        {
+          "id": "0",
+          "type": "IMAGE",
+          "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/vertical-images/3.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlomwe18gnBjoTVm6nH81F07Lc5m0qVaC69C7F_2ffPRinRd9vZIU6Sj5L0inHY6Z9u4&usqp=CAU",
+    "name": "Sophia",
+    "username": "Sophia",
+    "createdAt": "2022-09-04T12:05:39.955Z",
+    "fleets": {
+      "items": [
+        {
+          "id": "0",
+          "type": "IMAGE",
+          "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/vertical-images/4.jpeg"
+        },
+        {
+          "id": "1",
+          "type": "TEXT",
+          "text": "Of Course I Still Love You"
+        }
+      ]
+    }
+  }
+]

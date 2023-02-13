@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3socmediastorage83d4997c",
+  "bucketName": "socmedia-storage-83d4997c",
+  "policyUUID": "2b2ed695",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
